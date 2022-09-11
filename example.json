@@ -1,0 +1,7 @@
+{
+  "debug" : "on",
+  "window" : {
+    "title" : "sample",
+    "size": 500
+  }
+}
