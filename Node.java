@@ -8,4 +8,4 @@ public class Node {
     }
 }
 
-// In order to support any data type we can use a class instead of a primitive data type so we can use null to represent a null node.
+// In order to support any data type we can use an object instead of a primitive data type so we can use null to represent a when a node does not exist.
